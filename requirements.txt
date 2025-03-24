@@ -1,0 +1,12 @@
+pandas==2.1.4
+numpy==1.23.5
+matplotlib==3.9.2
+plotly==6.0.1
+streamlit==1.32.0
+prophet==1.1.6
+scipy==1.9.3
+tqdm==4.67.1
+statsmodels
+scikit-learn
+requests
+openpyxl
